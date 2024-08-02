@@ -161,8 +161,9 @@
 
 
 ## **🕵️ Github Profile Stats**
-<br>
-
+<span align="left">
+  <img src="https://komarev.com/ghpvc/?username=jessicamensah&style=for-the-badge&color=orange" alt=""/>
+</spam>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jessicamensah&layout=compact&theme=radical&show_icons=true&locale=en" alt="jessicamensah" width="400" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessicamensah&&layout=compact&theme=radical" alt="jessicamensah" width="400" /></p>
