@@ -4,7 +4,7 @@
 
 ## **📫 Connect with Me!**
 [![GitHub Badge](https://img.shields.io/badge/-jessicamensah-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/jessicamensah/)
-[![Linkedin Badge](https://img.shields.io/badge/-jessicamensah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamensah/) 
+[![Linkedin Badge](https://img.shields.io/badge/-jessicamensah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-y-mensah/) 
 [![Mail Badge](https://img.shields.io/badge/-jessica.mensah79@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jessica.mensah79@gmail.com)
 
 - 🎓 MSc Artificial Intelligence (FinTech Pathway) from Birmingham City University - 1st Class Qualification.
