@@ -13,6 +13,7 @@
 - 🌱 Exploring OpenAI, Azure, and data processing with large language models.
 - 🤝 Looking to network with professionals in AI and data science fields.
 - 💬 Ask me about Artificial Intelligence, Data Science, Data Analytics, and Business Intelligence (BI).
+- 📝 I write blogs on **[Medium](https://medium.com/@jessica.mensah79/building-a-student-performance-classifier-using-python-tinker-module-mongodb-security-d80f2e841577)**
 - ⚡ Fun fact: I enjoy reading books, traveling, and experimenting with new recipes.
 
 ## **🎓 Education**
