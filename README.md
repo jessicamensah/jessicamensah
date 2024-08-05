@@ -1,4 +1,4 @@
-# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28px" alt="hi"> I'm Jessica Mensah**
+# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28px" alt="hi"> I'm Jess!**
 
 #### <p align='justify'>A detail-oriented professional known for thriving in dynamic, high-pressure settings while consistently delivering top-quality output. My strong communication and problem-solving skills enable me to engage effectively with stakeholders and provide tailored solutions. Driven to meet and exceed targets and possess a robust technical skill set in Artificial Intelligence, along with Management and analytical abilities. An adaptable individual actively seeking opportunities to contribute generative expertise and be a part of innovative projects in AI, Machine Learning & Deep Learning.</p>
 
@@ -23,12 +23,6 @@
 
 ### **Birmingham City University**
 - **BSc Business Information Technology** - Upper Second Class Qualification
-
-### **St Thomas More College, London**
-- **A Levels**: Economics, Information Technology, Media 
-
-### **St Marys CofE High School, London**
-- **GCSEs**: 9 A-B grades including Maths (B) and English (A)
 
 ## **💼 Employment History**
 
