@@ -2,7 +2,6 @@
 
 #### <p align='justify'>A detail-oriented professional known for thriving in dynamic, high-pressure settings while consistently delivering top-quality output. My strong communication and problem-solving skills enable me to engage effectively with stakeholders and provide tailored solutions. Driven to meet and exceed targets and possess a robust technical skill set in Artificial Intelligence, along with Management and analytical abilities. An adaptable individual actively seeking opportunities to contribute generative expertise and be a part of innovative projects in AI, Machine Learning & Deep Learning.</p>
 
-## **📫 Connect with Me!**
 [![GitHub Badge](https://img.shields.io/badge/-jessicamensah-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/jessicamensah/)
 [![Linkedin Badge](https://img.shields.io/badge/-jessicamensah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-y-mensah/) 
 [![Mail Badge](https://img.shields.io/badge/-jessica.mensah79@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jessica.mensah79@gmail.com)
@@ -10,11 +9,11 @@
 
 - 🎓 MSc Artificial Intelligence (FinTech Pathway) from Birmingham City University - 1st Class Qualification.
 - 🔭 Researching AI, Machine Learning, and Deep Learning.
-- 🌱 Exploring OpenAI, Azure, and data processing with large language models.
+- 🌱 Exploring OpenAI, Ollama,  Azure, and data processing with large language models.
 - 🤝 Looking to network with professionals in AI and data science fields.
-- 💬 Ask me about Artificial Intelligence, Data Science, Data Analytics, and Business Intelligence (BI).
+- 💬 Ask me about Artificial Intelligence, Data Science, Data Analytics.
 - 📝 I write blogs on **[Medium](https://medium.com/@jessica.mensah79/building-a-student-performance-classifier-using-python-tinker-module-mongodb-security-d80f2e841577)**
-- ⚡ Fun fact: I enjoy reading books, traveling, and experimenting with new recipes.
+- ⚡ Fun fact: I enjoy hiking, traveling, and experimenting with new recipes.
 
 ## **🎓 Education**
 
