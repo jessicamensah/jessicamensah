@@ -17,44 +17,7 @@
 
 ## **🎓 Education**
 
-### **Birmingham City University**
-- **MSc Artificial Intelligence (FinTech Pathway)** - 1st Class Qualification
-
-### **Birmingham City University**
-- **BSc Business Information Technology** - Upper Second Class Qualification
-
-## **💼 Employment History**
-
-### **Project Manager** – Brillio (Royal and Sun Alliance Group)  
-*November 2022 – November 2023*  
-- RAID Log – establishing client clarity by managing stakeholder calls and presenting updates regarding project. 
-- Taking high-level meeting minutes in client-side meetings (Working Group + Delivery Reviews).
-- Managing Stakeholder log and identifying client roles.
-- Managing Implementation Plan Action Log.
-- User requirements and bug/defect logging in Jira.
-- Managing support drop-in sessions during testing phases.
-- Constructing user comms/FAQs to inform wider audience of project changes.
-
-### **Data Quality Assistant** – Cloud Stratex  
-*2022 – October 2023*  
-- Being the first point of contact for stakeholders and applicants.
-- Mitigation of 20k revenue by using a Holiday tracker to coincide with project contingency – track associate replacements during holidays and releasing funds.
-- Creation/ updating of incoming proposals tracker update and project milestone tracker.
-- IP Capture – capturing reusable methodologies whilst anonymising client data.
-- Creating a Data Admin Forum to create/manage internal projects and elevate working experience for employees.
-- Financial monthly presentations – using Microsoft Excel to create revenue dashboards.
-- Microsoft Project creation/updates – Creating practice Gantt Chart to track contract ends and engagement extensions.
-
-### **Junior Business Analyst** - Birmingham City University  
-*2021 – 2022*  
-- Working with Microsoft Azure and Excel MTA Exams.
-- Using User experience skills to edit the education forum to be more user-friendly.
-
-### **Energy Specialist** – EON Energy  
-*June 2020 – April 2021*  
-- Handling customer complaints.
-- Inbound phone calls to customers.
-- Demonstrated excellent teamwork skills, such as an ability to listen to clients and managers, perform my role to a high level, and support colleagues, resulting in an early promotion.
+- **MSc Artificial Intelligence (FinTech Pathway)** 
 
 
 ## **🚀 Key Skills**
